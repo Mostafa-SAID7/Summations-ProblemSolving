@@ -1,0 +1,7 @@
+    // 1. Hash Map (Efficient)
+    // 2. Brute Force
+    // 3. Two Pointers (Sorted)
+    // 4. LINQ Query
+    // 5. Binary Search
+    // 6. Recursion
+    // 7. Stream Processing (Online)
